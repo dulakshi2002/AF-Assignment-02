@@ -32,3 +32,6 @@ REST Countries API
 Install dependencies - npm install
 Start development server - npm run dev
 Testing - npm test
+
+
+Hosting Link - https://af-assignment-02-b1tt.vercel.app/
