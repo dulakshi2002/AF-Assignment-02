@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "jest --watch",
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
