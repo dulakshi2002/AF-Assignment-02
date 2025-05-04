@@ -7,7 +7,7 @@ import CountryList from './pages/CountryList';
 import CountryDetails from './pages/CountryDetails';
 import Login from './pages/Login';
 import Favorites from './pages/Favorites';
-import Signup from './pages/SignUp';
+import Signup from './pages/Signup';
 
 export default function App() {
   const { user } = useAuth();
